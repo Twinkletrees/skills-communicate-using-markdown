@@ -12,11 +12,12 @@ _This text is italicized_
 
 **This text is _extremely_ important**
 
-	***All this text is important***
+***All this text is important***
 
  This is a <sub>subscript</sub> text
 
- 	This is a <sup>superscript</sup> text
+ This is a <sup>superscript</sup> text
 
 > Text that is a quote
-  > Text that is a quote
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
