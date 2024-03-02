@@ -21,3 +21,8 @@ _This text is italicized_
 > Text that is a quote
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+``` python
+myVar = "Hello, world!";
+```
